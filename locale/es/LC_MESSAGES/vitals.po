@@ -74,12 +74,12 @@ msgstr "Derecha"
 #: prefs.ui:196
 #, fuzzy
 msgid "Far Left"
-msgstr "Izquierda"
+msgstr "Extremo Izquierdo"
 
 #: prefs.ui:197
 #, fuzzy
 msgid "Far Right"
-msgstr "Derecha"
+msgstr "Extremo Derecho"
 
 #: prefs.ui:220 schemas/org.gnome.shell.extensions.vitals.gschema.xml:21
 msgid "Use higher precision"
